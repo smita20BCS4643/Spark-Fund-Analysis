@@ -29,3 +29,7 @@ Spark Funds wants to invest where most other investors are investing. This patte
 # Where did we get the data from? 
 
 We have taken real investment data from crunchbase.com
+
+# Flowchart
+![Flowchart - Flowchart](https://user-images.githubusercontent.com/101444257/175842932-54354076-f757-46c9-85c8-1c0e403fea0c.png)
+
